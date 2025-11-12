@@ -65,9 +65,20 @@ print(cl)
 ```
 
 ## Output:
+DATA:
+
 <img width="917" height="502" alt="1" src="https://github.com/user-attachments/assets/992f8fc8-6489-40ee-8709-7d26bc7b70a1" />
+
+CONFUSION MATRIX:
+
 <img width="125" height="48" alt="2" src="https://github.com/user-attachments/assets/51db8b36-2ddb-4b70-9e95-352befdf4b5c" />
+
+CLASSIFICATION:
+
 <img width="602" height="221" alt="3" src="https://github.com/user-attachments/assets/00d4ef18-8010-4be8-a578-9fbd9a784aeb" />
+
+ACCURACY:
+
 <img width="237" height="38" alt="4" src="https://github.com/user-attachments/assets/880126dd-271d-406e-853c-bb761cea49cd" />
 
 
